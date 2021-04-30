@@ -3,7 +3,7 @@
     <div>
       <Logo />
       <h1 class="title">
-        kuroco-sample
+        kuroco-sample_
       </h1>
       <div class="links">
         <a
